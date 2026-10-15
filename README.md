@@ -1,4 +1,4 @@
-# Layro MCP for Cursor
+# Layro MCP
 
 Layro's remote MCP server gives Cursor access to 89 production React + Tailwind components (53 free).
 Your agent can search the library, read each component's props and usage, and install the tested component with pinned packages.
