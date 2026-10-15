@@ -1,10 +1,22 @@
 {
   "name": "layro",
   "displayName": "Layro",
-  "version": "1.0.0",
-  "description": "Connect Cursor to Layro's 89 production React + Tailwind components. Your agent searches the library, reads props and installs the tested component with the right packages, instead of writing its own. 53 components are free with no token.",
-  "author": { "name": "Layro", "url": "https://layropro.com" },
+  "version": "1.0.1",
+  "description": "Connect Cursor to Layro's 112 production React, TypeScript and Tailwind CSS components. Your agent searches the library, reads props and installs the tested component with the right packages, instead of writing its own. 62 components are free with a free Layro account.",
+  "author": {
+    "name": "Layro",
+    "url": "https://layropro.com"
+  },
   "homepage": "https://layropro.com/mcp",
-  "keywords": ["mcp", "ui", "components", "react", "tailwind", "design-system", "shadcn", "frontend"],
+  "keywords": [
+    "mcp",
+    "ui",
+    "components",
+    "react",
+    "tailwind",
+    "design-system",
+    "shadcn",
+    "frontend"
+  ],
   "logo": "logo.svg"
 }
